@@ -27,5 +27,4 @@ https://xcao.top/post-278.html 水了个博文，操作更详细
 1. https://github.com/zhjc1124/ssr_autocheckin 用了他的机场签到代码。
 2. https://github.com/sirodeneko/genshin-sign 参考其Actions的yml。
 ~~（两个仓库均无许可证，让我有点蒙）~~
-最近仓库https://github.com/sirodeneko/genshin-sign 增加了GPL许可证，在征求作者同意后，本仓库依旧保持使用MIT许可证进行开源，以下为与作者通信邮件
-[![](https://raw.githubusercontent.com/xiaocao666tzh/imghosting/main/image.png)](https://raw.githubusercontent.com/xiaocao666tzh/imghosting/main/image.png)
+最近仓库https://github.com/sirodeneko/genshin-sign 增加了GPL许可证，在征求作者同意后，本仓库依旧保持使用MIT许可证进行开源。
