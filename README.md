@@ -1,4 +1,6 @@
-forked from https://github.com/xiaocao666tzh/Airport-Checkin
+#forked from https://github.com/xiaocao666tzh/Airport-Checkin
+
+>隔几个月就要手动随便写写字，不然就被自动停用了
 
 
 ># 机场自动签到
